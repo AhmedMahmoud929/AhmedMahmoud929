@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Mahmoud</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
-<img align="center" alt="coding" width="400" src="[https://harshchau.medium.com/best-practices-for-an-improved-serverless-developer-experience-88b83118d94a](https://miro.medium.com/max/1360/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif)">
+<img align="right" alt="coding" width="400" src="[https://harshchau.medium.com/best-practices-for-an-improved-serverless-developer-experience-88b83118d94a](https://miro.medium.com/max/1360/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedmahmoud929&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedmahmoud929" /> </p>
 
